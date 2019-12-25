@@ -1,7 +1,7 @@
 ﻿# Bigdidiproject
 这是一个滴滴工程项目
 
-命名规则：统一使用英语命名。
+命名规则：统一使用拼音命名。
  
 报名流程--progress.html
 创业项目--chuangye.html
